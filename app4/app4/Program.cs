@@ -10,6 +10,8 @@ namespace app4
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello git");
+            Console.ReadKey();
         }
     }
 }
